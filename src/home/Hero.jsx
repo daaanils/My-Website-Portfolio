@@ -21,7 +21,7 @@ function Hero() {
                     <p className="text-white lg:text-start md:text-center leading-[1.5]">
                         Hello there! I'm Danilo Pelaso, a <span className="font-bold"> Front-End Developer</span> with a passion
                         for turning ideas into reality.
-                        I specialize in building scalable, efficient, and user-friendly front web applications using
+                        I specialize in building scalable, efficient, and user-friendly web applications using
                         cutting-edge technologies like 
                         <span className="font-bold"> HTML,</span><span className="font-bold"> Tailwind CSS</span>
                         ,<span className="font-bold"> React</span>, and more.
