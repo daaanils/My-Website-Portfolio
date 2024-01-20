@@ -23,8 +23,8 @@ function Hero() {
                         for turning ideas into reality.
                         I specialize in building scalable, efficient, and user-friendly front web applications using
                         cutting-edge technologies like 
-                        <span className="font-bold">HTML,</span><span className="font-bold">Tailwind CSS</span>
-                        ,<span className="font-bold">React</span>, and more.
+                        <span className="font-bold"> HTML,</span><span className="font-bold"> Tailwind CSS</span>
+                        ,<span className="font-bold"> React</span>, and more.
                     </p>
                     <p className="mt-5 text-white  lg:text-start md:text-center leading-[1.5]">
                         Dive in to explore my projects, learn about my skills, and discover how I can bring your vision

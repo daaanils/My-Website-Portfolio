@@ -11,7 +11,7 @@ function Services() {
                 </div>
                 <div data-aos="fade-up" data-aos-duration="1000">
                     <p className="w-full max-w-[793px] text-center text-white text-base font-normal mx-auto leading-[1.5]">
-                        I offer a range of services including web development, custom software solutions,
+                        I offer a range of services including front-end web development, custom software solutions,
                         API integration, code review, and technical consultation. With my expertise in
                         the latest technologies and best practices, I aim to deliver solutions that
                         meet your needs and exceed your expectations.
@@ -29,10 +29,10 @@ function Services() {
                             <p className="text-white font-bold">Web <br />Development</p>
                         </div>
                         <p className="text-[#C1C1C1] w-full">
-                            From simple landing pages to complex web applications,
+                            From simple landing pages to complex front-end web applications,
                             I can bring your ideas to life using the latest web
-                            technologies such as <span className="font-bold">React</span> ,<span className="font-bold">Node.js</span> ,
-                            and <span className="font-bold">Firebase</span> .
+                            technologies such as <span className="font-bold">React</span> ,<span className="font-bold">Tailwind CSS</span> ,
+                            and <span className="font-bold">Boostrap</span> .
                         </p>
                     </div>
                     <div data-aos="fade-up" data-aos-offset="300" data-aos-duration="1000"
@@ -47,7 +47,7 @@ function Services() {
                         </div>
                         <p className="text-[#C1C1C1] w-full">
                             Looking for a custom solution for your business? I’m at your service. From basic landing pages to
-                            complex web applications, I can turn your ideas into reality.
+                            complex front-end web applications, I can turn your ideas into reality.
                         </p>
                     </div>
                     <div data-aos="fade-up" data-aos-offset="300" data-aos-duration="1000" className="col-span-1 flex flex-col gap-[14px]  backdrop-blur-sm border border-[#222222] p-5 bg-[#141414]/[20%] rounded-lg">
