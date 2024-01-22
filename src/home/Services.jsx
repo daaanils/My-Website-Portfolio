@@ -11,10 +11,7 @@ function Services() {
                 </div>
                 <div data-aos="fade-up" data-aos-duration="1000">
                     <p className="w-full max-w-[793px] text-center text-white text-base font-normal mx-auto leading-[1.5]">
-                        I offer a range of services including front-end web development, custom software solutions,
-                        API integration, code review, and technical consultation. With my expertise in
-                        the latest technologies and best practices, I aim to deliver solutions that
-                        meet your needs and exceed your expectations.
+                    As a front-end developer, I excel in responsive web design, performance optimization, modern UI development, and accessibility integration for inclusive and seamless digital experiences.
                     </p>
                 </div>
                 <div className="grid md:grid-cols2 grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-[19px]">
@@ -26,13 +23,10 @@ function Services() {
                                     <path d="M16.75 3.64662L22 8.53455L16.75 13.4225M6.25 13.4225L1 8.53455L6.25 3.64662M13.75 0.853516L9.25 16.2156" stroke="#FF17E8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                             </div>
-                            <p className="text-white font-bold">Web <br />Development</p>
+                            <p className="text-white font-bold">Responsive <br />Web Design</p>
                         </div>
                         <p className="text-[#C1C1C1] w-full">
-                            From simple landing pages to complex front-end web applications,
-                            I can bring your ideas to life using the latest web
-                            technologies such as <span className="font-bold">React</span> ,<span className="font-bold">Tailwind CSS</span> ,
-                            and <span className="font-bold">Boostrap</span> .
+                              Delivering seamless and visually stunning user interfaces across devices through responsive web design. Ensuring an optimal viewing and interaction experience for users, whether on desktops, tablets, or smartphones.
                         </p>
                     </div>
                     <div data-aos="fade-up" data-aos-offset="300" data-aos-duration="1000"
@@ -43,11 +37,10 @@ function Services() {
                                     <path d="M16.75 3.64662L22 8.53455L16.75 13.4225M6.25 13.4225L1 8.53455L6.25 3.64662M13.75 0.853516L9.25 16.2156" stroke="#FF17E8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                             </div>
-                            <p className="text-white font-bold">Custom Software<br />Solutions</p>
+                            <p className="text-white font-bold">Performance<br />Optimization</p>
                         </div>
                         <p className="text-[#C1C1C1] w-full">
-                            Looking for a custom solution for your business? I’m at your service. From basic landing pages to
-                            complex front-end web applications, I can turn your ideas into reality.
+                             Enhancing website speed and performance to provide users with a swift and efficient browsing experience. Implementing best practices such as code splitting, image optimization, and lazy loading to minimize load times and improve overall site performance.
                         </p>
                     </div>
                     <div data-aos="fade-up" data-aos-offset="300" data-aos-duration="1000" className="col-span-1 flex flex-col gap-[14px]  backdrop-blur-sm border border-[#222222] p-5 bg-[#141414]/[20%] rounded-lg">
@@ -57,11 +50,10 @@ function Services() {
                                     <path d="M16.75 3.64662L22 8.53455L16.75 13.4225M6.25 13.4225L1 8.53455L6.25 3.64662M13.75 0.853516L9.25 16.2156" stroke="#FF17E8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                             </div>
-                            <p className="text-white font-bold">API<br />Integration</p>
+                            <p className="text-white font-bold">UI<br />Development</p>
                         </div>
                         <p className="text-[#C1C1C1] w-full">
-                            I can incorporate third-party APIs into your systems, enabling the use of external services. Be it
-                            payment gateways, social media, or cloud services.
+                           Crafting intuitive and visually appealing user interfaces that align with the brand identity and engage users. Employing the latest front-end technologies, such as <span className="font-bold"> React </span>and<span className="font-bold"> Tailwind CSS</span> to create dynamic and interactive UI components that elevate the overall user experience.
                         </p>
                     </div>
                     <div data-aos="fade-up" data-aos-offset="300" data-aos-duration="1000"
@@ -73,12 +65,11 @@ function Services() {
                                         stroke="#FF17E8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                             </div>
-                            <p className="text-white font-bold">Technical <br />
-                                Consultation</p>
+                            <p className="text-white font-bold">Accessibility <br />
+                                Integration</p>
                         </div>
                         <p className="text-[#C1C1C1] w-full">
-                            Need technical advice? I offer consultation to guide your decisions, considering your specific
-                            objectives and financial resources.
+                              Ensuring inclusivity by implementing web accessibility standards (WCAG) to make digital experiences accessible to all users, including those with disabilities. 
                         </p>
                     </div>
                 </div>
