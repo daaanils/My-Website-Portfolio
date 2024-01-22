@@ -14,17 +14,14 @@ function Hero() {
             <div data-aos="fade-down-left" data-aos-duration="1000" className="max-w-[694px] w-full flex flex-col gap-4 lg:gap-[32px] ">
                 <div>
                     <h1 className="lg:w-[694px] lg:text-start md:text-center text-transparent bg-clip-text bg-gradient-to-r from-[#DB5BFF] to-[#6F8EFF] text-5xl lg:text-[56px] font-bold via-[#A472FF] leading-[1.3] ">
-                        Crafting Innovative Solutions Through Code
+                        Elevating Front-End Solutions for Modern User Experiences 
                     </h1>
                 </div>
                 <div className="w-full lg:max-w-[79%]">
                     <p className="text-white lg:text-start md:text-center leading-[1.5]">
-                        Hello there! I'm Danilo Pelaso, a <span className="font-bold"> Front-End Developer</span> with a passion
-                        for turning ideas into reality.
-                        I specialize in building scalable, efficient, and user-friendly web applications using
-                        cutting-edge technologies like 
+                        Hello there! I'm Danilo Pelaso, a dedicated <span className="font-bold"> Front-End Developer</span> driven by the excitement of transforming concepts into captivating digital experiences. With a focus on crafting user-friendly web applications, I specialize in leveraging the latest technologies such as 
                         <span className="font-bold"> HTML,</span><span className="font-bold"> Tailwind CSS</span>
-                        ,<span className="font-bold"> React</span>, and more.
+                        ,<span className="font-bold"> React</span>, and more to build scalable and efficient solutions.
                     </p>
                     <p className="mt-5 text-white  lg:text-start md:text-center leading-[1.5]">
                         Dive in to explore my projects, learn about my skills, and discover how I can bring your vision
