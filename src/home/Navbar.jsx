@@ -4,7 +4,7 @@ function Navbar() {
     return (
         <nav className="top-0 z-24 w-full px-[24px] xl:px-0">
             <div className="flex flex-wrap items-center justify-between max-w-[1160px] w-full py-7 mx-auto">
-                <div className="lg:text-[28px] text-2xl font-black text-neutral-300">Danilo Pelaso</div>
+                <div className="lg:text-[28px] text-2xl font-black text-neutral-300">Danilo Peeelaso</div>
                 <div className="flex space-x-3 md:order-2 md:space-x-0 rtl:space-x-reverse">
                     <div className="flex justify-between items-center  gap-[13px] ">
 
