@@ -4,7 +4,7 @@ function Navbar() {
     return (
         <nav className="top-0 z-24 w-full px-[24px] xl:px-0">
             <div className="flex flex-wrap items-center justify-between max-w-[1160px] w-full py-7 mx-auto">
-                <div className="lg:text-[28px] text-2xl font-black text-neutral-300">Danilo Peeelaso</div>
+                <div className="lg:text-[28px] text-2xl font-black text-neutral-300">Danilo Pelaso</div>
                 <div className="flex space-x-3 md:order-2 md:space-x-0 rtl:space-x-reverse">
                     <div className="flex justify-between items-center  gap-[13px] ">
 
@@ -14,7 +14,7 @@ function Navbar() {
 </svg>
                         </a>
 
-                        <a href="https://www.facebook.com/Danilo.https://www.facebook.com/profile.php?id=61559328655598/" className='cursor-pointer'>
+                        <a href="https://www.facebook.com/profile.php?id=61559328655598" className='cursor-pointer'>
                         <svg width="24" height="24" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M9 0.0458984C4.02955 0.0458984 0 4.07544 0 9.0459C0 13.5582 3.32386 17.2838 7.65491 17.9346V11.4313H5.42823V9.06553H7.65491V7.49135C7.65491 4.88504 8.92473 3.74081 11.0909 3.74081C12.1283 3.74081 12.6769 3.81772 12.9367 3.8529V5.91799H11.459C10.5394 5.91799 10.2183 6.78976 10.2183 7.7724V9.06553H12.9134L12.5476 11.4313H10.2183V17.9539C14.6111 17.3578 18 13.6019 18 9.0459C18 4.07544 13.9705 0.0458984 9 0.0458984Z" fill="white" />
                         </svg>
@@ -27,7 +27,7 @@ function Navbar() {
 
                       </a>
 
-                      <a href="https://www.instagram.com/https://www.instagram.com/dannypelaso?fbclid=IwZXh0bgNhZW0CMTAAAR2nvevrEk16kBLcto7WCZzDkhfPt9KzwKIqQZ5YkDjnYZoX2krMO3EZ8TM_aem_AcpTv5xOL0QyFn8Lk3PkrOfKaDGGMWklwAeGJnlW_vJH_mvDt4u6gwUPpZPyaKRKOrXhtuuJthOVaK_T8WZPjT8H/?hl=en" className='cursor-pointer'>
+                      <a href="https://www.instagram.com/dannypelaso?fbclid=IwZXh0bgNhZW0CMTAAAR2aA3YtWr72XfnqjnpyHWjHTMunXBVVQqfuiFzkw3hqAgQWS4C-RStMymE_aem_AcqloQH_zMadWAQ_MtixerE7vUVmgaeGHyMNwGn1qCHwwNILl4PazKbE3PZQ6MYeAMloa2aZlOfmfXtxTeGicvTu" className='cursor-pointer'>
                       <svg width="24" height="24" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M5.31818 0C2.385 0 0 2.385 0 5.31818V12.6818C0 15.615 2.385 18 5.31818 18H12.6818C15.615 18 18 15.615 18 12.6818V5.31818C18 2.385 15.615 0 12.6818 0H5.31818ZM13.9091 3.27273C14.3591 3.27273 14.7273 3.64091 14.7273 4.09091C14.7273 4.54091 14.3591 4.90909 13.9091 4.90909C13.4591 4.90909 13.0909 4.54091 13.0909 4.09091C13.0909 3.64091 13.4591 3.27273 13.9091 3.27273ZM9 4.5C11.4832 4.5 13.5 6.51682 13.5 9C13.5 11.4832 11.4832 13.5 9 13.5C6.51682 13.5 4.5 11.4832 4.5 9C4.5 6.51682 6.51682 4.5 9 4.5ZM9 5.31818C6.97091 5.31818 5.31818 6.97091 5.31818 9C5.31818 11.0291 6.97091 12.6818 9 12.6818C11.0291 12.6818 12.6818 11.0291 12.6818 9C12.6818 6.97091 11.0291 5.31818 9 5.31818Z" fill="white" />
                         </svg>
