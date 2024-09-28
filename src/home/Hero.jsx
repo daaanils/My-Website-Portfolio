@@ -14,7 +14,7 @@ function Hero() {
             <div data-aos="fade-down-left" data-aos-duration="1000" className="max-w-[694px] w-full flex flex-col gap-4 lg:gap-[32px] ">
                 <div>
                     <h1 className="lg:w-[694px] lg:text-start md:text-center text-transparent bg-clip-text bg-gradient-to-r from-[#DB5BFF] to-[#6F8EFF] text-5xl lg:text-[56px] font-bold via-[#A472FF] leading-[1.3] ">
-                        Elevating Front-End Solutions for Modern User Experiences 
+                        Elevating Front-End Solutions for Modern User Experiencess 
                     </h1>
                 </div>
                 <div className="w-full lg:max-w-[79%]">
