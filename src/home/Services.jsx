@@ -14,7 +14,7 @@ function Services() {
                     As a front-end developer, I excel in responsive web design, performance optimization, modern UI development, and accessibility integration for inclusive and seamless digital experiences.
                     </p>
                 </div>
-                <div className="grid md:grid-cols2 grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-[19px]">
+                <div className="grid md:grid-cols2 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-[19px]">
                     <div data-aos="fade-up" data-aos-offset="300" data-aos-duration="1000"
                         className="col-span-1 flex flex-col gap-[14px]  backdrop-blur-sm border border-[#222222] p-5 bg-[#141414]/[20%] rounded-lg">
                         <div className="flex items-center gap-3 ">
@@ -56,7 +56,7 @@ function Services() {
                            Crafting intuitive and visually appealing user interfaces that align with the brand identity and engage users. Employing the latest front-end technologies, such as <span className="font-bold"> React </span>and<span className="font-bold"> Tailwind CSS</span> to create dynamic and interactive UI components that elevate the overall user experience.
                         </p>
                     </div>
-                
+                    
                 </div>
             </section>
 
